@@ -48,10 +48,6 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 40
   identifier = "categories"
   url = "/categories/"
-[[menu.main]]
-  name = "external-link"
-  weight = 50
-  url = "https://gohugo.io"
 
 
 [params]
@@ -60,7 +56,7 @@ defaultContentLanguage = "en"           # Default language to use
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Jane"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "16's Blog"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme","jane"]
   description = "Hugo theme jane example site."
 
