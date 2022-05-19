@@ -75,6 +75,6 @@ defaultContentLanguage = "en"           # Default language to use
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   [params.social]                                         # 社交链接
-    a-email = "songshiyun99@gmail.com"
+    a-email = "mailto:songshiyun99@gmail.com"
     g-github = "https://github.com/songshiyun"
     h-weibo = "https://weibo.com/5271156990"
